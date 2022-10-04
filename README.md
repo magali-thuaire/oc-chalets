@@ -1,9 +1,9 @@
 # Chalets et Caviar
 *WordPress*
  
-[Site](https://chalets.magali.website)    
+[Lien vers le site](https://chalets.magali.website)    
 
-[Notice utilisateur](https://chalets.magali.website/chalets_notice_utilisateur.pdf)
+[Lien vers la notice utilisateur](https://chalets.magali.website/chalets_notice_utilisateur.pdf)
 
 
 
